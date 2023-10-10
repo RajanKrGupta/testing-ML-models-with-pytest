@@ -1,4 +1,4 @@
-from sklearn.externals import joblib
+import joblib
 from sklearn.metrics import r2_score
 import numpy as np
 
