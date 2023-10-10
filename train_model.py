@@ -1,5 +1,5 @@
 from sklearn.linear_model import LinearRegression
-from sklearn.externals import joblib
+import joblib
 import numpy as np
 
 
